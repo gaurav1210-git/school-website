@@ -102,11 +102,13 @@ function Principal() {
         <div className="principal-photo">
           <img src="https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=700&q=80" alt="Principal" />
         </div>
-        <div>
+        <div className="principal-content">
           <span className="eyebrow">Principal's Message</span>
           <blockquote>“{school.principal.message}”</blockquote>
-          <strong>{school.principal.name}</strong>
-          <span className="principal-role">{school.principal.role}</span>
+          <div className="principal-signature">
+            <strong>{school.principal.name}</strong>
+            <span className="principal-role">{school.principal.role}</span>
+          </div>
         </div>
       </div>
     </section>

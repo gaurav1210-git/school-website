@@ -5,10 +5,10 @@ export const school = {
   established: "1998",
   address: "Kirnapur, MP",
   phone: "+91 98765 43210",
-  email: "info@greenvalleyschool.edu.in",
+  email: "info@msmgyanodaygyanpeeth.edu.in",
   timings: "Monday – Saturday | 8:00 AM – 2:30 PM",
   principal: {
-    name: "Dr. Ananya Sharma",
+    name: "Shree Chandra Sekhar Jangde",
     role: "Principal",
     message:
       "At MSM Gyanoday Gyanpeeth, we believe education is not only about academic achievement. It is about developing confident, responsible and compassionate individuals who are ready to make a positive difference in the world."
