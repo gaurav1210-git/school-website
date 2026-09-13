@@ -1,17 +1,17 @@
 export const school = {
-  name: "MSM Gyanoday Gyanpeeth",
+  name: "MSM Gyanoday Higher Secondary School",
   shortName: "MSM",
   tagline: "Learn. Lead. Inspire.",
-  established: "1998",
+  established: "1984",
   address: "Kirnapur, MP",
-  phone: "+91 98765 43210",
+  phone: "+91 70006 32173",
   email: "info@msmgyanodaygyanpeeth.edu.in",
   timings: "Monday – Saturday | 8:00 AM – 2:30 PM",
   principal: {
-    name: "Shree Chandra Sekhar Jangde",
-    role: "Principal",
+    name: "Mr. Abhinav Jangde",
+    role: "Director & Principal",
     message:
-      "At MSM Gyanoday Gyanpeeth, we believe education is not only about academic achievement. It is about developing confident, responsible and compassionate individuals who are ready to make a positive difference in the world."
+      "At MSM Gyanoday Higher Secondary School, we believe education is not only about academic achievement. It is about developing confident, responsible and compassionate individuals who are ready to make a positive difference in the world."
   }
 };
 

@@ -5,6 +5,7 @@ import {
   School, ShieldCheck, Trophy, Users, X
 } from "lucide-react";
 import { school, notices, events, facilities, gallery, navItems } from "./data/school";
+import principalImage from "./assets/image/abhinav_pic.jpeg";
 
 function SectionHeading({ eyebrow, title, text, center = false }) {
   return (
@@ -77,7 +78,7 @@ function About() {
       <div className="container about-grid">
         <div className="image-card">
           <img src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=85" alt="School campus" />
-          <div className="experience"><strong>25+</strong><span>Years of<br/>Excellence</span></div>
+          <div className="experience"><strong>42+</strong><span>Years of<br/>Excellence</span></div>
         </div>
         <div>
           <SectionHeading eyebrow="About Our School" title="Building a strong foundation for tomorrow." text="A supportive environment where academic learning and character development go hand in hand." />
@@ -100,7 +101,7 @@ function Principal() {
     <section className="principal section-sm">
       <div className="container principal-grid">
         <div className="principal-photo">
-          <img src="https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=700&q=80" alt="Principal" />
+          <img src={principalImage} alt="Principal" />
         </div>
         <div className="principal-content">
           <span className="eyebrow">Principal's Message</span>
