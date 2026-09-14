@@ -1,3 +1,4 @@
+import React from "react";
 import { BookOpen, GraduationCap, Library, School, Trophy, Users } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 import { facilities } from "../data/school";

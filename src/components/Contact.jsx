@@ -1,3 +1,4 @@
+import React from "react";
 import { ArrowRight, Mail, MapPin, Phone } from "lucide-react";
 import { school } from "../data/school";
 

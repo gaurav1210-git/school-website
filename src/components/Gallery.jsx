@@ -1,3 +1,4 @@
+import React from "react";
 import { gallery } from "../data/school";
 import SectionHeading from "./SectionHeading";
 

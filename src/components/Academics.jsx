@@ -1,3 +1,4 @@
+import React from "react";
 import { ArrowRight, BookOpen, GraduationCap, Library } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 

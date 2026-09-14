@@ -1,3 +1,4 @@
+import React from "react";
 import { events, notices } from "../data/school";
 import SectionHeading from "./SectionHeading";
 

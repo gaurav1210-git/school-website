@@ -1,3 +1,4 @@
+import React from "react";
 import { school } from "../data/school";
 import principalImage from "../assets/image/abhinav_pic.jpeg";
 

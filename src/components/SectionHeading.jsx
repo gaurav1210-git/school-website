@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function SectionHeading({ eyebrow, title, text, center = false }) {
   return (
     <div className={`section-heading ${center ? "center" : ""}`}>

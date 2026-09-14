@@ -1,3 +1,4 @@
+import React from "react";
 import { CheckCircle2, ChevronRight } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 

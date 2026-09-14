@@ -1,3 +1,4 @@
+import React from "react";
 import { School } from "lucide-react";
 import { school, navItems } from "../data/school";
 
